@@ -5,7 +5,7 @@ boilerplate for mvc node.js app
 ## Getting Started
 - `git clone` this repo
 - Install dependencies using Yarn, `yarn install`
-- Fire it up! 'yarn start'
+- Fire it up! `yarn start`
 
 ## What's Included
 - Express
