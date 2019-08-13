@@ -4,7 +4,7 @@
   "description": "node-boilerplate",
   "main": "index.js",
   "author": "splashinn",
-  "license": "BSD",
+  "license": "BSD-3-Clause",
   "private": false,
   "dependencies": {
     "body-parser": "^1.19.0",
@@ -17,5 +17,19 @@
   },
   "scripts": {
     "start": "node index.js"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/splashinn/nog.git"
+  },
+  "keywords": [
+    "cli",
+    "template",
+    "boilerplate"
+  ],
+  "bugs": {
+    "url": "https://github.com/splashinn/nog/issues"
+  },
+  "homepage": "https://github.com/splashinn/nog#readme"
 }
